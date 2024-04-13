@@ -6,3 +6,6 @@ Experiment List
 5. Frequency Distribution
 6. Name Entity Recognition
 7. Sentiment Analysis for movie reviews
+8. 
+9. Text Summarization
+10. Text Generation using LSTM
